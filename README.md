@@ -1,1 +1,1 @@
-# student-services-security-secure-url
+# secure page access using spring security
